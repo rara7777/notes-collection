@@ -20,4 +20,5 @@
 
 <a name="library"></a>
 ### Library
+- [Vue.js](https://vuejs.org/)
 - [vuetifyjs](https://vuetifyjs.com/en/)
