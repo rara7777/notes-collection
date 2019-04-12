@@ -1,11 +1,23 @@
 <a name="#Laravel"></a>
 # Laravel
 
+<a name="#document"></a>
+### 文檔
+- [Laravel官方網站](https://laravel.com/)
+
 <a name="#practice"></a>
 ### 開發規範、代碼風格
 - [Laravel 的中大型專案架構](https://oomusou.io/laravel/architecture/)
 - [laravel-best-practices](https://github.com/alexeymezenin/laravel-best-practices)
 - [clean-code-php](https://github.com/jupeter/clean-code-php)
+
+<a name="#practice"></a>
+### Topics
+- [Eloquent Relationships Cheat Sheet](https://hackernoon.com/eloquent-relationships-cheat-sheet-5155498c209)
+
+<a name="#practice"></a>
+### Tutorial
+- [Laravel API Tutorial: How to Build and Test a RESTful API](https://www.toptal.com/laravel/restful-laravel-api-tutorial)
 
 <a name="Packages"></a>
 ### Packages
