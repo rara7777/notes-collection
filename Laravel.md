@@ -25,3 +25,4 @@
 - [laravel-permission](https://github.com/spatie/laravel-permission)
 - [PHPWord](https://github.com/PHPOffice/PHPWord)
 - [PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet)
+- [Laravel Debugbar](https://github.com/barryvdh/laravel-debugbar)
