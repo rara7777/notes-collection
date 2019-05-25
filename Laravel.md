@@ -15,9 +15,10 @@
 ### Topics
 - [Eloquent Relationships Cheat Sheet](https://hackernoon.com/eloquent-relationships-cheat-sheet-5155498c209)
 
-<a name="#practice"></a>
+<a name="#tutorial"></a>
 ### Tutorial
 - [Laravel API Tutorial: How to Build and Test a RESTful API](https://www.toptal.com/laravel/restful-laravel-api-tutorial)
+- [Laravel PHP Framework - Full Course for Beginners (2019)](https://www.youtube.com/watch?v=ImtZ5yENzgE)
 
 <a name="Packages"></a>
 ### Packages
