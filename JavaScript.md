@@ -13,10 +13,14 @@
 - [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 - [六角前端大補帖](https://coggle.it/diagram/XJdj8UA5tjeIugda/t/%E5%85%AD%E8%A7%92%E5%89%8D%E7%AB%AF%E5%A4%A7%E8%A3%9C%E5%B8%96/3ce94a1e7878d5f0c3c36c8ee5dd6db85bcc0fd177475649f0b9b88a6e473ea4?fbclid=IwAR0PFz7jFMa8Pbt6CAfmArn8mbS8R2QUbcUbfBG1SPJhhN0X0uayrqRfSfg)
 
-<a name="small-theme"></a>
-### 小主題
+<a name="topic"></a>
+### Topic
 - [hidden-classes](https://richardartoul.github.io/jekyll/update/2015/04/26/hidden-classes.html)
 - [Optimization-killers](https://github.com/petkaantonov/bluebird/wiki/Optimization-killers#3-managing-arguments)
+
+<a name="tutorial"></a>
+### Tutorial
+- [E-Commerce JavaScript Tutorial - Shopping Cart from Scratch](https://www.youtube.com/watch?v=023Psne_-_4)
 
 <a name="library"></a>
 ### Library
