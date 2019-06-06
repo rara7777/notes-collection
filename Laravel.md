@@ -7,13 +7,13 @@
 
 <a name="#practice"></a>
 ### 開發規範、代碼風格
-- [Laravel 的中大型專案架構](https://oomusou.io/laravel/architecture/)
 - [laravel-best-practices](https://github.com/alexeymezenin/laravel-best-practices)
 - [clean-code-php](https://github.com/jupeter/clean-code-php)
 
 <a name="#practice"></a>
 ### Topics
 - [Eloquent Relationships Cheat Sheet](https://hackernoon.com/eloquent-relationships-cheat-sheet-5155498c209)
+- [20 个 Laravel Eloquent 必备的实用技巧](https://learnku.com/laravel/t/9991/20-laravel-eloquent-necessary-practical-skills)
 
 <a name="#tutorial"></a>
 ### Tutorial
