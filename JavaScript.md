@@ -26,3 +26,4 @@
 ### Library
 - [Vue.js](https://vuejs.org/)
 - [vuetifyjs](https://vuetifyjs.com/en/)
+- [axios](https://github.com/axios/axios)
