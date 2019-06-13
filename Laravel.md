@@ -16,6 +16,7 @@
 - [20 个 Laravel Eloquent 必备的实用技巧](https://learnku.com/laravel/t/9991/20-laravel-eloquent-necessary-practical-skills)
 - [RESTful 服务最佳实践](http://naotu.baidu.com/file/61d976e0117152524bc18b8772c930c9?token=e45339df1cdd6ff2)
 - [Laravel API, how to properly handle errors](https://stackoverflow.com/questions/51065170/laravel-api-how-to-properly-handle-errors)
+- [Laravel 5.7 最佳实践和开发技巧分享](https://juejin.im/post/5c3bdfda51882525c71308b5)
 
 <a name="#tutorial"></a>
 ### Tutorial
