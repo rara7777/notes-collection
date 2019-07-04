@@ -49,3 +49,25 @@ sudo ufw allow "Nginx Full"
 ```
 
 Important files located in /etc/nginx/
+
+### Setting up sites
+```
+cd /etc/nginx/sites-available
+sudo cp default yourdomain.com
+sudo nano yourdomain.com
+```
+
+Modify settings
+```
+root /var/www/html; -> root /var/www/yourdomain.com
+
+server_name _; -> server_name yourdomain.com;
+```
+
+Restart service
+```
+sudo ln -s /etc/nginx/sites-available/yourdomain.com /etc/nginx/sites-enabled/yourdomain.com
+sudo systemctl reload nginx.service
+```
+
+
