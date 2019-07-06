@@ -1,6 +1,11 @@
 <a name="#Linux"></a>
 # Simple Linux server settings
 
+## Setting up timezone
+```
+timedatectl set-timezone Asia/Taipei
+```
+
 ## create users
 create a new user
 ```
@@ -69,5 +74,35 @@ Restart service
 sudo ln -s /etc/nginx/sites-available/yourdomain.com /etc/nginx/sites-enabled/yourdomain.com
 sudo systemctl reload nginx.service
 ```
+
+## Setting up database
+Install Database
+```
+sudo apt update
+sudo apt install mariadb-server
+sudo mysql_secure_installation
+-> Setting root pasword? [Y/n] Y
+-> Remove anonymous users? [Y/n] Y
+-> Disallow root login remotely? [Y/n] Y
+-> Removetest database and access to it? [Y/n] Y
+-> Reload privilege tables noew? [Y/n] Y
+```
+
+Create users for projects
+```
+sudo mysql -u root -p
+create user yourdomain.com@% identified by 'yourpassword';
+create database yourdomain.com;
+grant all privileges on yourdomain.com.* to yourdomain.com@%;
+flush privileges;
+```
+
+## Setting up PHP
+```
+sudo apt-get update
+sudo apt install php-fpm
+```
+
+
 
 
