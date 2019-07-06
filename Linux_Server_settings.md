@@ -9,7 +9,7 @@ timedatectl set-timezone Asia/Taipei
 ## create users
 create a new user
 ```
-adduser: adduser yourUserNameHere
+adduser yourUserNameHere
 ```
 make the user has permission to sudo
 ```
