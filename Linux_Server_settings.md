@@ -98,11 +98,49 @@ flush privileges;
 ```
 
 ## Setting up PHP
+### Install PHP
 ```
 sudo apt-get update
 sudo apt install php-fpm
 ```
 
+### Securing PHP
+```
+sudo nano /etc/php/7.2/fpm/php.ini
+```
+cgi.fix_pathinfo=1 -> cgi.fix_pathinfo=0
+### Sending requests from nginx to php-fpm
+```
+sudo nano /etc/nginx/sites-available/yourdomain.com
+```
 
+modify
+```
+index index.php index.html
 
+...
 
+location ~ \.php# {
+    include snippets/fastcgi-php.conf;
+    fastcgi_pass unix:/var/run/php/php7.2-fpm.sock;
+}
+```
+
+reload sevice
+```
+sudo systemctl reload nginx.service
+```
+
+## Making more safe
+### 1.  prevent access to .htaccess and .git files
+```
+location ~ /\.ht {
+    deny all;
+}
+location ~ /\.git {
+    deny all;
+}
+```
+
+### 2. Hiding the Nginx signature in the responses
+```sudo nano /etc/nginx/nginx.conf```
