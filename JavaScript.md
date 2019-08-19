@@ -3,10 +3,8 @@
 
 <a name="resources"></a>
 ### 資源
-- [You don't know JS (book)](https://github.com/getify/You-Dont-Know-JS)
 - [ES6 Features with examples](http://es6-features.org)
 - [WesBos blog (ES6)](http://wesbos.com/category/es6/)
-- [codingheroes](http://codingheroes.io/resources/)
 - [modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet/)
 - [Node.js Best Practices](https://github.com/i0natan/nodebestpractices)
 - [如何通过饿了么 Node.js 面试](https://github.com/ElemeFE/node-interview/tree/master/sections/zh-cn)
@@ -18,13 +16,17 @@
 - [hidden-classes](https://richardartoul.github.io/jekyll/update/2015/04/26/hidden-classes.html)
 - [Optimization-killers](https://github.com/petkaantonov/bluebird/wiki/Optimization-killers#3-managing-arguments)
 - [List of (Advanced) JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
+- [JavaScript - 十分鐘帶你了解 閉包 (Closure)](https://www.youtube.com/watch?v=TLIQUloXLec)
 
 <a name="tutorial"></a>
 ### Tutorial
 - [E-Commerce JavaScript Tutorial - Shopping Cart from Scratch](https://www.youtube.com/watch?v=023Psne_-_4)
+- [javascript30](https://javascript30.com)
 
 <a name="library"></a>
 ### Library
-- [Vue.js](https://vuejs.org/)
-- [vuetifyjs](https://vuetifyjs.com/en/)
 - [axios](https://github.com/axios/axios)
+- [Echarts](https://echarts.baidu.com)
+- [Normalize.css](https://necolas.github.io/normalize.css/)
+- [Vue.js](https://vuejs.org)
+- [Vuetifyjs](https://vuetifyjs.com)
