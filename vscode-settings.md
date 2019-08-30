@@ -7,6 +7,8 @@
 
 `Laravel 5 Snippets` [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel5-snippets)
 
+`Laravel goto view` [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=codingyu.laravel-goto-view)
+
 `phpfmt - PHP formatter` [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=kokororin.vscode-phpfmt)
 
 `Project Manager` [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
