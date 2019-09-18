@@ -14,9 +14,7 @@
 <a name="topic"></a>
 ### Topic
 - [hidden-classes](https://richardartoul.github.io/jekyll/update/2015/04/26/hidden-classes.html)
-- [Optimization-killers](https://github.com/petkaantonov/bluebird/wiki/Optimization-killers#3-managing-arguments)
 - [List of (Advanced) JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
-- [JavaScript - 十分鐘帶你了解 閉包 (Closure)](https://www.youtube.com/watch?v=TLIQUloXLec)
 
 <a name="tutorial"></a>
 ### Tutorial
