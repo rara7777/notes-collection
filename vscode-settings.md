@@ -3,11 +3,17 @@
 
 ### Extensions
 
+`Better PHPUnit` [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=calebporzio.better-phpunit)
+
 `ESLint` [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+
+`Laravel Blade Snippets` [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel-blade)
 
 `Laravel 5 Snippets` [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel5-snippets)
 
 `Laravel goto view` [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=codingyu.laravel-goto-view)
+
+`PHP Intelephense` [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client)
 
 `phpfmt - PHP formatter` [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=kokororin.vscode-phpfmt)
 
@@ -16,8 +22,6 @@
 `Vetur` [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
 
 ### Settings
-
-If you want your editor to work and look exactly the same way as mine does in the course videos, you can copy these settings to your own settings file. Just go to settings in VSCode, and on the right side, you can paste this code.
 
 ```
 {
@@ -29,7 +33,8 @@ If you want your editor to work and look exactly the same way as mine does in th
     },
     "[php]": {
         "editor.tabSize": 4,
-        "editor.formatOnSave": true
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "junstyle.php-cs-fixer"
     },
     "[python]": {
         "editor.tabSize": 4
@@ -37,6 +42,7 @@ If you want your editor to work and look exactly the same way as mine does in th
     "[vue]": {
         "editor.tabSize": 2
     },
+    "editor.formatOnSave": false,
     "editor.fontSize": 16,
     "editor.renderWhitespace": "boundary",
     "editor.tabSize": 2,
@@ -54,7 +60,6 @@ If you want your editor to work and look exactly the same way as mine does in th
     "css.validate": false,
     "scss.validate": false,
     "less.validate": false,
-    "phpfmt.php_bin": "\"D:\\XAMPP\\php\\php.exe\"",
     "eslint.validate": [
         {
             "language": "vue",
@@ -65,6 +70,9 @@ If you want your editor to work and look exactly the same way as mine does in th
             "autoFix": true
         }
     ],
-    "window.zoomLevel": -1
+    "window.zoomLevel": -1,
+    "php-cs-fixer.onsave": true,
+    "php-cs-fixer.executablePath": "${extensionPath}\\php-cs-fixer.phar",
+    "php-cs-fixer.lastDownload": 1572576522000,
 }
 ```
