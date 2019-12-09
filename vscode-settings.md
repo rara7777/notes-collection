@@ -3,13 +3,11 @@
 
 ### Extensions
 
-`Better PHPUnit` [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=calebporzio.better-phpunit)
-
 `ESLint` [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
-`Laravel Blade Snippets` [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel-blade)
-
 `Laravel 5 Snippets` [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel5-snippets)
+
+`Laravel Blade Snippets` [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel-blade)
 
 `Laravel goto view` [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=codingyu.laravel-goto-view)
 
@@ -34,7 +32,6 @@
     "[php]": {
         "editor.tabSize": 4,
         "editor.formatOnSave": true,
-        "editor.defaultFormatter": "junstyle.php-cs-fixer"
     },
     "[python]": {
         "editor.tabSize": 4
@@ -71,8 +68,10 @@
         }
     ],
     "window.zoomLevel": -1,
-    "php-cs-fixer.onsave": true,
-    "php-cs-fixer.executablePath": "${extensionPath}\\php-cs-fixer.phar",
-    "php-cs-fixer.lastDownload": 1572576522000,
+    "terminal.integrated.shell.windows": "D:\\Program Files\\Git\\bin\\bash.exe",
+    "workbench.enableExperiments": false,
+    "update.showReleaseNotes": false,
+    "telemetry.enableCrashReporter": false,
+    "editor.codeLens": false
 }
 ```
