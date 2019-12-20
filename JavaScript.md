@@ -28,3 +28,4 @@
 - [Normalize.css](https://necolas.github.io/normalize.css/)
 - [Vue.js](https://vuejs.org)
 - [Vuetifyjs](https://vuetifyjs.com)
+- [vue-echarts](https://github.com/ecomfe/vue-echarts)
