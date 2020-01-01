@@ -4,7 +4,6 @@
 <a name="resources"></a>
 ### 資源
 - [ES6 Features with examples](http://es6-features.org)
-- [WesBos blog (ES6)](http://wesbos.com/category/es6/)
 - [modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet/)
 - [Node.js Best Practices](https://github.com/i0natan/nodebestpractices)
 - [如何通过饿了么 Node.js 面试](https://github.com/ElemeFE/node-interview/tree/master/sections/zh-cn)
