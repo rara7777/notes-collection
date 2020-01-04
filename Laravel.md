@@ -15,6 +15,7 @@
 - [Eloquent Relationships Cheat Sheet](https://hackernoon.com/eloquent-relationships-cheat-sheet-5155498c209)
 - [20 个 Laravel Eloquent 必备的实用技巧](https://learnku.com/laravel/t/9991/20-laravel-eloquent-necessary-practical-skills)
 - [RESTful 服务最佳实践](https://www.cnblogs.com/jaxu/p/7908111.html)
+- [Laravel 6 Advanced](https://www.youtube.com/watch?v=_z9nzEUgro4&list=PLpzy7FIRqpGD5pN3-Y66YDtxJCYuGumFO)
 
 <a name="#tutorial"></a>
 ### Tutorial
