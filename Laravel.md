@@ -16,6 +16,8 @@
 - [20 个 Laravel Eloquent 必备的实用技巧](https://learnku.com/laravel/t/9991/20-laravel-eloquent-necessary-practical-skills)
 - [RESTful 服务最佳实践](https://www.cnblogs.com/jaxu/p/7908111.html)
 - [Laravel 6 Advanced](https://www.youtube.com/watch?v=_z9nzEUgro4&list=PLpzy7FIRqpGD5pN3-Y66YDtxJCYuGumFO)
+- [Optimize database queries in the perimeter of your Laravel apps](https://reinink.ca/articles/optimize-database-queries-in-the-perimeter-of-your-laravel-apps?ref=laravelnews)
+- [Diving Laravel](https://divinglaravel.com/)
 
 <a name="#tutorial"></a>
 ### Tutorial
