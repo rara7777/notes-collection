@@ -22,7 +22,6 @@
 - [E-Commerce JavaScript Tutorial - Shopping Cart from Scratch](https://www.youtube.com/watch?v=023Psne_-_4)
 - [javascript30](https://javascript30.com)
 
-
 <a name="library"></a>
 ### Library
 - [axios](https://github.com/axios/axios)
@@ -39,3 +38,4 @@
 <a name="vue_example"></a>
 ### vue 範例
 - [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)
+- [yyx990803/laravel-vue-cli-3](https://github.com/yyx990803/laravel-vue-cli-3)
