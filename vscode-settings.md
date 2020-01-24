@@ -9,11 +9,7 @@
 
 `Laravel Blade Snippets` [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel-blade)
 
-`Laravel goto view` [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=codingyu.laravel-goto-view)
-
 `PHP Intelephense` [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client)
-
-`phpfmt - PHP formatter` [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=kokororin.vscode-phpfmt)
 
 `Project Manager` [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
 
@@ -45,33 +41,30 @@
     "editor.tabSize": 2,
     "editor.wordWrap": "on",
     "files.eol": "\n",
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
     "search.exclude": {
         "**/bower_components": true,
         "**/dist": true,
         "**/frontend/public": true,
+        "**/.git": true,
         "**/node_modules": true,
         "**/public": true,
-        "**/vendor": true
+        "**/storage": true,
+        "**/vendor": true,
+        "package-lock.json": true
     },
     "telemetry.enableTelemetry": false,
     "css.validate": false,
     "scss.validate": false,
     "less.validate": false,
-    "eslint.validate": [
-        {
-            "language": "vue",
-            "autoFix": true
-        },
-        {
-            "language": "javascript",
-            "autoFix": true
-        }
-    ],
     "window.zoomLevel": -1,
     "terminal.integrated.shell.windows": "D:\\Program Files\\Git\\bin\\bash.exe",
     "workbench.enableExperiments": false,
-    "update.showReleaseNotes": false,
     "telemetry.enableCrashReporter": false,
-    "editor.codeLens": false
+    "php.validate.enable": false,
+    "php.suggest.basic": false,
+    "extensions.autoUpdate": false,
 }
+
 ```
