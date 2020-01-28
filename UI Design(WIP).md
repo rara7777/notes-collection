@@ -19,5 +19,3 @@ Implementation 執行應用: 由工程師藉由設計稿產出程式碼。
 3. 組織: Header, Footer
 4. 模板: Template
 5. 頁面: Pages
-
-## Soft Skill
