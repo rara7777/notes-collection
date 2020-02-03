@@ -33,6 +33,7 @@
 - [Laravel Debugbar](https://github.com/barryvdh/laravel-debugbar)
 - [laravel-activitylog](https://github.com/spatie/laravel-activitylog)
 - [laravel-apidoc-generator](https://github.com/mpociot/laravel-apidoc-generator)
+- [laravel-trix](https://github.com/Te7a-Houdini/laravel-trix)
 
 <a name="Demo"></a>
 ### Demo
