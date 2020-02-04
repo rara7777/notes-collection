@@ -5,7 +5,6 @@
 ### 資源
 - [modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 - [Node.js Best Practices](https://github.com/i0natan/nodebestpractices)
-- [如何通过饿了么 Node.js 面试](https://github.com/ElemeFE/node-interview/tree/master/sections/zh-cn)
 - [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 - [javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
 - [List of (Advanced) JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
