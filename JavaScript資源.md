@@ -9,6 +9,7 @@
 - [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 - [javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
 - [List of (Advanced) JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
+- [TypeOfNaN JavaScript Quizzes](https://quiz.typeofnan.dev/)
 
 <a name="library"></a>
 ### Library
