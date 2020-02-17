@@ -3,12 +3,12 @@
 
 <a name="resources"></a>
 ### 資源
-- [modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
-- [Node.js Best Practices](https://github.com/i0natan/nodebestpractices)
+- [modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - 平時複習、掃盲
+- [Node.js Best Practices](https://github.com/i0natan/nodebestpractices) - node.js規範
 - [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-- [javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
-- [List of (Advanced) JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
-- [TypeOfNaN JavaScript Quizzes](https://quiz.typeofnan.dev/)
+- [javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - js 測試規範
+- [List of (Advanced) JavaScript Questions](https://github.com/lydiahallie/javascript-questions) - 掃盲
+- [TypeOfNaN JavaScript Quizzes](https://quiz.typeofnan.dev/) - 掃盲
 
 <a name="library"></a>
 ### Library
