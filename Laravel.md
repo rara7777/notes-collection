@@ -18,6 +18,7 @@
 - [Laravel 6 Advanced](https://www.youtube.com/watch?v=_z9nzEUgro4&list=PLpzy7FIRqpGD5pN3-Y66YDtxJCYuGumFO)
 - [Optimize database queries in the perimeter of your Laravel apps](https://reinink.ca/articles/optimize-database-queries-in-the-perimeter-of-your-laravel-apps?ref=laravelnews)
 - [Diving Laravel](https://divinglaravel.com/)
+- [invisible recaptcha with vuejs & laravel](https://gist.github.com/ctf0/8037b629ffde02377adeaa43f46863de)
 
 <a name="#tutorial"></a>
 ### Tutorial
