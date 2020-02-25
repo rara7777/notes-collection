@@ -11,6 +11,6 @@
 - PHP
   - Laravel
 
-## 機器學習
-- python
-  - anaconda
+## 其他
+- Git
+- npm
