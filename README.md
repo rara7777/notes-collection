@@ -3,7 +3,7 @@
 
 ## 通用:
 - Algorithm
-- CDN
+- [CDN](https://github.com/rara7777/notes-collection/blob/master/CDN.md)
 - CI/CD
 - Data Structure
 - Data Transmission Security()
