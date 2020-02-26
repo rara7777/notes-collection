@@ -22,7 +22,6 @@
 - i18n
   - [Laravel](https://laravel.com/docs/master/localization)
   - [vuejs](https://kazupon.github.io/vue-i18n)
-- JSON
 - MVVM
 - RWD
 - SEO
