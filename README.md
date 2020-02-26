@@ -45,7 +45,6 @@
 - RESTful API
 - Unit test(phpunit)
 - 金物流 API 串接
-- 分散式系統
 
 ## 其他
 - Git
