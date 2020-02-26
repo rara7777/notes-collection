@@ -27,7 +27,7 @@
   - [Google搜尋引擎最佳化初學者指南](http://static.googleusercontent.com/media/www.google.com/en/us/intl/zh-tw/webmasters/docs/search-engine-optimization-starter-guide-zh-tw.pdf)
 - TypeScript
 - Unit test(JEST / Mocha)
-- Vue, Vuex, Vue Router, Vue CLI, Vuetify, SPA
+- Vue, [Vuex](https://vuex.vuejs.org/zh), Vue Router, Vue CLI, Vuetify, SPA
 - Webpack
 - 網頁切版作業
   - [網頁切版報價細節](https://www.youtube.com/watch?v=drLqqWhkUqg)
