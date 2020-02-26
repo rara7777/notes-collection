@@ -17,7 +17,6 @@
 
 ## 前端:
 - [Bootstrap](https://getbootstrap.com)
-- cross browser compatibility
 - HTML5, CSS3, JavaScript, ES6, ES7, SCSS
 - i18n
   - [Laravel](https://laravel.com/docs/master/localization)
