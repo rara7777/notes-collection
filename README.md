@@ -5,7 +5,7 @@
 - Algorithm
 - [CDN](https://github.com/rara7777/notes-collection/blob/master/CDN.md)
 - CI/CD
-- Data Structure
+- Data Structures
 - Design Pattern
 - Docker
 - End-to-End Testing
@@ -26,8 +26,12 @@
 - SEO
   - [Google搜尋引擎最佳化初學者指南](http://static.googleusercontent.com/media/www.google.com/en/us/intl/zh-tw/webmasters/docs/search-engine-optimization-starter-guide-zh-tw.pdf)
 - TypeScript
-- Unit test(JEST / Mocha)
-- Vue, [Vuex](https://vuex.vuejs.org/zh), Vue Router, Vue CLI, Vuetify, SPA
+- [Vue Test Utils](https://vue-test-utils.vuejs.org/zh)(JEST)
+- [Vue](https://vuejs.org)
+- [Vuex](https://vuex.vuejs.org/zh)
+- [Vue Router](https://router.vuejs.org/zh)
+- [Vue CLI](https://cli.vuejs.org)
+- [Vuetify](https://vuetifyjs.com/en)
 - Webpack
 - 網頁切版作業
   - [網頁切版報價細節](https://www.youtube.com/watch?v=drLqqWhkUqg)
@@ -41,8 +45,6 @@
 - NoSQL(mongodb)
 - [PHP(Laravel)](https://github.com/rara7777/notes-collection/blob/master/Laravel.md)
 - RESTful API
-- Unit test(phpunit)
-- 金物流 API 串接
 
 ## 其他
 - Git
