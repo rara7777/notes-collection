@@ -9,7 +9,7 @@
 - Design Pattern
 - Docker
 - End-to-End Testing
-- ESLint(Airbnb / stadnard)
+- [ESLint](https://eslint.org)([Airbnb](https://github.com/airbnb/javascript) / [standard](https://standardjs.com))
 - Linux
 - SOLID
 - 網路基本原理
