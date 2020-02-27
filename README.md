@@ -21,7 +21,7 @@
 - i18n
   - [Laravel](https://laravel.com/docs/master/localization)
   - [vuejs](https://kazupon.github.io/vue-i18n)
-- MVVM
+- [MVVM](https://github.com/rara7777/notes-collection/blob/master/MVVM.md)
 - RWD
 - SEO
   - [Google搜尋引擎最佳化初學者指南](http://static.googleusercontent.com/media/www.google.com/en/us/intl/zh-tw/webmasters/docs/search-engine-optimization-starter-guide-zh-tw.pdf)
