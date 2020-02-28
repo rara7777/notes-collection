@@ -38,7 +38,6 @@
 - Nuxt.js
 
 ## 後端:
-- Express
 - Micro service
 - MVC
 - 關聯式資料庫(MySQL, SQL Server)
