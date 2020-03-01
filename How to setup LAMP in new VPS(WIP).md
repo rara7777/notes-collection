@@ -1,13 +1,15 @@
 <a name="#Linux"></a>
-# Simple Linux server settings
+# How to setup LAMP in new VPS
 
-## Setting up timezone
+## Before Start
+
+### Setting up timezone
 ```
-timedatectl set-timezone Asia/Taipei
+sudo timedatectl set-timezone Asia/Taipei
 ```
 
-## create users
-create a new user
+### create users
+create a new user to login instead of root login
 ```
 adduser yourUserNameHere
 ```
@@ -21,17 +23,16 @@ if you want to del user
 deluser yourUserNameHere
 ```
 
-## preventing root login
-1. nano etc/ssh/ssshd/config
-2. change PermitRootLogin to no
-3. systemtcl reload ssh.service
+### preventing root login
+```
+nano etc/ssh/ssshd/config
+```
+change PermitRootLogin to no
+```
+systemtcl reload ssh.service
+```
 
 ## UFW firewall
-
-
-## Permissions
-chown -R thingstech storage/
-chown -R thingstech bootstrap/
 
 ## fail2ban
 ```
@@ -144,3 +145,13 @@ location ~ /\.git {
 
 ### 2. Hiding the Nginx signature in the responses
 ```sudo nano /etc/nginx/nginx.conf```
+
+## Laravel Permissions
+```
+chown -R thingstech storage/
+chown -R thingstech bootstrap/
+```
+
+## References
+- [Initial Server Setup with Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-18-04)
+- [How To Install Linux, Apache, MySQL, PHP (LAMP) stack on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-ubuntu-18-04)
