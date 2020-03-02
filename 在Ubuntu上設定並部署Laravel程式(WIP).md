@@ -1,64 +1,47 @@
 <a name="#Linux"></a>
-# How to setup LAMP in new VPS
+# 在Ubuntu上設定並部署Laravel程式
 
-## Before Start
+## 開始之前
 
-### Setting up timezone
+### 設定時區為 Asia/Taipei
 ```
 sudo timedatectl set-timezone Asia/Taipei
 ```
 
-### create users
-create a new user to login instead of root login
+### 建立使用者(已有root以外使用者可略過)
+建立其他使用者以避免使用root登入以提升安全性
 ```
 adduser yourUserNameHere
 ```
-make the user has permission to sudo
+令該使用者擁有sudo權限
 ```
 adduser yourUserNameHere sudo
 ```
 
-if you want to del user
-```
-deluser yourUserNameHere
-```
-
-### preventing root login
+### 關閉root登入
 ```
 nano etc/ssh/ssshd/config
 ```
-change PermitRootLogin to no
+修改 PermitRootLogin 為 no，並重載ssh服務
 ```
 systemtcl reload ssh.service
 ```
 
-## UFW firewall
-
-## fail2ban
-```
-sudo apt-get update
-sudo apt install fail2ban
-```
-
-## Nginx
-### Install Nginx
+## 設定Apache
+### Install Apache
 ```
 sudo apt update
-sudo apt install nginx
+sudo apt install apache2
 ```
 
-### Allowing access
+確認是否可以瀏覽
 ```
-sudo ufw status verbose
-sudo ufw app list
-sudo ufw allow "Nginx Full"
+http://your_server_ip
 ```
 
-Important files located in /etc/nginx/
-
-### Setting up sites
+### 設定網站
 ```
-cd /etc/nginx/sites-available
+cd /etc/apache2/sites-available
 sudo cp default yourdomain.com
 sudo nano yourdomain.com
 ```
@@ -67,20 +50,23 @@ Modify settings
 ```
 root /var/www/html; -> root /var/www/yourdomain.com
 
-server_name _; -> server_name yourdomain.com;
+serverName _; -> server_name yourdomain.com;
 ```
 
-Restart service
+重啟服務
 ```
-sudo ln -s /etc/nginx/sites-available/yourdomain.com /etc/nginx/sites-enabled/yourdomain.com
-sudo systemctl reload nginx.service
+sudo systemctl reload apache2.service
+```
+或
+```
+sudo service apache2 restart
 ```
 
 ## Setting up database
-Install Database
+安裝資料庫，此用mysql，亦可改安裝mariadb
 ```
 sudo apt update
-sudo apt install mariadb-server
+sudo apt install mysql-server
 sudo mysql_secure_installation
 -> Setting root pasword? [Y/n] Y
 -> Remove anonymous users? [Y/n] Y
@@ -89,7 +75,7 @@ sudo mysql_secure_installation
 -> Reload privilege tables noew? [Y/n] Y
 ```
 
-Create users for projects
+建立一個資料庫使用者
 ```
 sudo mysql -u root -p
 create user yourdomain.com@% identified by 'yourpassword';
@@ -98,38 +84,20 @@ grant all privileges on yourdomain.com.* to yourdomain.com@%;
 flush privileges;
 ```
 
-## Setting up PHP
-### Install PHP
+## 設定PHP
+### 安裝 PHP 7.4
 ```
-sudo apt-get update
-sudo apt install php-fpm
-```
-
-### Securing PHP
-```
-sudo nano /etc/php/7.2/fpm/php.ini
-```
-cgi.fix_pathinfo=1 -> cgi.fix_pathinfo=0
-### Sending requests from nginx to php-fpm
-```
-sudo nano /etc/nginx/sites-available/yourdomain.com
+sudo apt update
+sudo apt upgrade
+sudo apt install software-properties-common
+sudo add-apt-repository ppa:ondrej/php
+sudo apt update
+sudo apt install php7.4
 ```
 
-modify
+確認是否安裝成功
 ```
-index index.php index.html
-
-...
-
-location ~ \.php# {
-    include snippets/fastcgi-php.conf;
-    fastcgi_pass unix:/var/run/php/php7.2-fpm.sock;
-}
-```
-
-reload sevice
-```
-sudo systemctl reload nginx.service
+php -v
 ```
 
 ## Making more safe
@@ -143,9 +111,6 @@ location ~ /\.git {
 }
 ```
 
-### 2. Hiding the Nginx signature in the responses
-```sudo nano /etc/nginx/nginx.conf```
-
 ## Laravel Permissions
 ```
 chown -R thingstech storage/
@@ -155,3 +120,6 @@ chown -R thingstech bootstrap/
 ## References
 - [Initial Server Setup with Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-18-04)
 - [How To Install Linux, Apache, MySQL, PHP (LAMP) stack on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-ubuntu-18-04)
+- [Install PHP 7.4 on Ubuntu 18.04](https://www.cloudbooklet.com/install-php-7-4-on-ubuntu)
+- [Upgrade PHP version to PHP 7.4 on Ubuntu](https://www.cloudbooklet.com/upgrade-php-version-to-php-7-4-on-ubuntu/)
+
