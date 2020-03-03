@@ -14,6 +14,7 @@
 - SOLID
 - 網路基本原理
 - web application security(TLS, SSL, SQL injection, XSS)
+  - [pick a vulnerability to learn about](https://www.hacksplaining.com/lessons)
 
 ## 前端:
 - [Bootstrap](https://getbootstrap.com)
