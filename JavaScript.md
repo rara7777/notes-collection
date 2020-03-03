@@ -22,6 +22,7 @@
 - [Vue.js](https://vuejs.org)
 - [Vuetifyjs](https://vuetifyjs.com)
 - [vue-echarts](https://github.com/ecomfe/vue-echarts)
+- [vue-recaptcha](https://www.npmjs.com/package/vue-recaptcha)
 
 <a name="icon"></a>
 ### Icon
@@ -29,7 +30,7 @@
 - [Material Design Icons](https://materialdesignicons.com/)
 
 <a name="vue_example"></a>
-### vue 範例
+### vue examples
 - [PanJiaChen/vue-admin-template](https://github.com/PanJiaChen/vue-admin-template)
 - [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)
 - [yyx990803/laravel-vue-cli-3](https://github.com/yyx990803/laravel-vue-cli-3)
