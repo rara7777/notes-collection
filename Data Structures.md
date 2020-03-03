@@ -11,6 +11,10 @@
 ## Hash Table (雜湊表; 哈希表)
 是根據鍵 (Key) 而直接查詢在記憶體儲存位置的資料結構。通過計算一個關於鍵值的函數(雜湊函數; Hash Function)，將所需查詢的數據映射到表中一個位置來查詢記錄，這加快了查找速度，這個函數稱做雜湊函數，存放記錄的數組稱做雜湊表。
 
+<p align="center">
+  <img src="https://miro.medium.com/max/4000/1*78wQr8-2tEPKWa0iobs8QQ.png" alt="Hash Table">
+</p>
+
 ### 衝突
 對不同的關鍵字可能得到同一雜湊地址，這種現象稱為衝突 (Collision)。
 
@@ -19,6 +23,11 @@
 - 分離鏈結 (Separate chaining)
 
 ## Linked List (連結串列)
+Linked list(連結串列)是一種常見的資料結構，其使用node(節點)來記錄、表示、儲存資料(data)，並利用每個node中的pointer指向下一個node，藉此將多個node串連起來，形成Linked list，並以NULL來代表Linked list的終點
+
+<p align="center">
+  <img src="https://github.com/alrightchiu/SecondRound/blob/master/content/Algorithms%20and%20Data%20Structures/BasicDataStructures/LinkedList/Intro/f2.png?raw=true" alt="Linked List">
+</p>
 
 ## Stack (堆疊)
 
