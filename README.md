@@ -35,6 +35,7 @@
 - [Vue CLI](https://cli.vuejs.org)
 - [Vuetify](https://vuetifyjs.com/en)
 - Webpack
+  - [4W字长文带你深度解锁Webpack系列](https://juejin.im/post/5e5c65fc6fb9a07cd00d8838)
 - 網頁切版作業
   - [網頁切版報價細節](https://www.youtube.com/watch?v=drLqqWhkUqg)
 - Nuxt.js
