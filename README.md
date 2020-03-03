@@ -17,7 +17,9 @@
 
 ## 前端:
 - [Bootstrap](https://getbootstrap.com)
-- HTML5, CSS3, JavaScript, ES6, ES7, SCSS
+- HTML5
+- CSS(SCSS)
+- JavaScript(ES6, ES7)
 - i18n
   - [Laravel](https://laravel.com/docs/master/localization)
   - [vuejs](https://kazupon.github.io/vue-i18n)
