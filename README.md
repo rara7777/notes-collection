@@ -5,7 +5,7 @@
 - Algorithm
 - [CDN](https://github.com/rara7777/notes-collection/blob/master/CDN.md)
 - CI/CD
-- Data Structures
+- [Data Structures](https://github.com/rara7777/notes-collection/blob/master/Data%20Structures.md)
 - Design Pattern
 - Docker
 - End-to-End Testing
