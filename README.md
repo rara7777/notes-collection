@@ -20,7 +20,7 @@
 - [Bootstrap](https://getbootstrap.com)
 - HTML5
 - CSS(SCSS)
-- JavaScript(ES6, ES7)
+- JavaScript
 - i18n
   - [Laravel](https://laravel.com/docs/master/localization)
   - [vuejs](https://kazupon.github.io/vue-i18n)
@@ -42,7 +42,6 @@
 - Nuxt.js
 
 ## 後端:
-- Micro service
 - MVC
 - 關聯式資料庫(MySQL, SQL Server)
 - NoSQL(mongodb)
