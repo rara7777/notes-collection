@@ -46,7 +46,6 @@
 ## 後端:
 - MVC
 - 關聯式資料庫(MySQL, SQL Server)
-- NoSQL(mongodb)
 - [PHP(Laravel)](https://github.com/rara7777/notes-collection/blob/master/Laravel.md)
 - RESTful API
 
