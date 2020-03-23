@@ -52,7 +52,7 @@
 - Git
   - [為你自己學 Git](https://gitbook.tw/)
 - [npm scripts](https://www.ruanyifeng.com/blog/2016/10/npm_scripts.html)
-- AWS、Azure、linode、[DigitalOcean](https://www.digitalocean.com/)
+- AWS、linode、[DigitalOcean](https://www.digitalocean.com/)
 - Kubernetes
 - Web socket
 - 爬蟲
