@@ -44,7 +44,6 @@
 - Nuxt.js
 
 ## 後端:
-- MVC
 - 關聯式資料庫(MySQL, SQL Server)
 - [PHP(Laravel)](https://github.com/rara7777/notes-collection/blob/master/Laravel.md)
 - RESTful API
