@@ -29,14 +29,14 @@
 - SEO
   - [Google搜尋引擎最佳化初學者指南](http://static.googleusercontent.com/media/www.google.com/en/us/intl/zh-tw/webmasters/docs/search-engine-optimization-starter-guide-zh-tw.pdf)
 - TypeScript
-- [Vue Test Utils](https://vue-test-utils.vuejs.org/zh)(JEST)
 - [Vue](https://vuejs.org)
-- [Vuex](https://vuex.vuejs.org/zh)
-  - [Learn Vuex](https://scrimba.com/g/gvuex)
-  - [Vuex tutorial (Vue.js state management)](https://www.youtube.com/playlist?list=PL1TrjkMQ8UbVSDkDaLkjpeNGkblNU8rpW)
+- [Vue Test Utils](https://vue-test-utils.vuejs.org/zh)(JEST)
 - [Vue Router](https://router.vuejs.org/zh)
 - [Vue CLI](https://cli.vuejs.org)
 - [Vuetify](https://vuetifyjs.com/en)
+- [Vuex](https://vuex.vuejs.org/zh)
+  - [Learn Vuex](https://scrimba.com/g/gvuex)
+  - [Vuex tutorial (Vue.js state management)](https://www.youtube.com/playlist?list=PL1TrjkMQ8UbVSDkDaLkjpeNGkblNU8rpW)
 - Webpack
   - [4W字长文带你深度解锁Webpack系列](https://juejin.im/post/5e5c65fc6fb9a07cd00d8838)
 - 網頁切版作業
