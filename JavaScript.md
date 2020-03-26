@@ -9,7 +9,6 @@
 - [javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - js 測試規範
 - [List of (Advanced) JavaScript Questions](https://github.com/lydiahallie/javascript-questions) - 掃盲
 - [TypeOfNaN JavaScript Quizzes](https://quiz.typeofnan.dev/) - 掃盲
-- [使用 JSON 資料](https://developer.mozilla.org/zh-TW/docs/Learn/JavaScript/Objects/JSON)
 - [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 
 <a name="library"></a>
