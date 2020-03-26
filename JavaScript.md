@@ -2,7 +2,7 @@
 # JavaScript
 
 <a name="resources"></a>
-### 資源
+### 學習資源
 - [modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - 平時複習、掃盲
 - [Node.js Best Practices](https://github.com/i0natan/nodebestpractices) - node.js規範
 - [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
@@ -12,24 +12,24 @@
 - [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 
 <a name="library"></a>
-### Library
+### 常用程式庫
 - [Axios](https://github.com/axios/axios)
-- [Bootstrap](https://getbootstrap.com/)
+- [Bootstrap](https://getbootstrap.com)
 - [Echarts](https://echarts.baidu.com)
 - [Flatpickr](https://flatpickr.js.org)
 - [Normalize.css](https://necolas.github.io/normalize.css)
-- [Nprogress](https://ricostacruz.com/nprogress/)
+- [Nprogress](https://ricostacruz.com/nprogress)
 - [Vue.js](https://vuejs.org)
 - [Vuetifyjs](https://vuetifyjs.com)
 - [vue-echarts](https://github.com/ecomfe/vue-echarts)
 - [vue-recaptcha](https://www.npmjs.com/package/vue-recaptcha)
 
 <a name="icon"></a>
-### Icon
+### 常用Icon
 - [Material Design Icons](https://materialdesignicons.com/)
 
 <a name="vue_example"></a>
-### vue examples
+### vue 參考範例
 - [PanJiaChen/vue-admin-template](https://github.com/PanJiaChen/vue-admin-template)
 - [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)
 - [yyx990803/laravel-vue-cli-3](https://github.com/yyx990803/laravel-vue-cli-3)
