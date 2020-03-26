@@ -55,4 +55,3 @@
 - [npm scripts](https://www.ruanyifeng.com/blog/2016/10/npm_scripts.html)
 - Kubernetes
 - Web socket
-- 爬蟲
