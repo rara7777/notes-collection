@@ -20,7 +20,7 @@
 - [Bootstrap](https://getbootstrap.com)
 - HTML5
 - CSS(SCSS)
-- JavaScript
+- [JavaScript](https://github.com/rara7777/notes-collection/blob/master/JavaScript.md)
 - i18n
   - [Laravel](https://laravel.com/docs/master/localization)
   - [vuejs](https://kazupon.github.io/vue-i18n)
@@ -45,6 +45,7 @@
 
 ## 後端:
 - 關聯式資料庫(MySQL, SQL Server)
+  - [MySQL数据库开发的三十六条军规](https://www.slideshare.net/mysqlops/mysql-9838563)
 - [PHP(Laravel)](https://github.com/rara7777/notes-collection/blob/master/Laravel.md)
 - RESTful API
 
