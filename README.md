@@ -11,6 +11,7 @@
 - End-to-End Testing
 - [ESLint](https://eslint.org)([Airbnb](https://github.com/airbnb/javascript) / [standard](https://standardjs.com))
 - Linux
+  - [test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills)
 - SOLID
 - 網路基本原理
 - web application security(TLS, SSL, SQL injection, XSS)
