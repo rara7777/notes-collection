@@ -27,7 +27,6 @@
 
 <a name="icon"></a>
 ### Icon
-- [Font Awesome](https://fontawesome.com/)
 - [Material Design Icons](https://materialdesignicons.com/)
 
 <a name="vue_example"></a>
