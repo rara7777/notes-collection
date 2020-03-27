@@ -5,6 +5,7 @@
 - Algorithm
 - [CDN](https://github.com/rara7777/notes-collection/blob/master/CDN.md)
 - CI/CD
+  - [Top 8 Continuous Integration Tools](https://code-maze.com/top-8-continuous-integration-tools)
 - [Data Structures](https://github.com/rara7777/notes-collection/blob/master/Data%20Structures.md)
 - [Design Pattern](https://github.com/kamranahmedse/design-patterns-for-humans)
 - Docker
