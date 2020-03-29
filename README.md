@@ -54,6 +54,7 @@
 ## 其他
 - Git
   - [為你自己學 Git](https://gitbook.tw/)
+  - [Learn Git Branching](https://learngitbranching.js.org/)
 - [npm scripts](https://www.ruanyifeng.com/blog/2016/10/npm_scripts.html)
 - Kubernetes
 - Web socket
