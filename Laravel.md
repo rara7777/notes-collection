@@ -3,7 +3,7 @@
 
 <a name="#document"></a>
 ### 文檔
-- [Laravel官方網站](https://laravel.com/)
+- [Laravel官方網站](https://laravel.com)
 
 <a name="#practice"></a>
 ### 開發規範、代碼風格
@@ -17,7 +17,7 @@
 - [RESTful 服务最佳实践](https://www.cnblogs.com/jaxu/p/7908111.html)
 - [Laravel 6 Advanced](https://www.youtube.com/watch?v=_z9nzEUgro4&list=PLpzy7FIRqpGD5pN3-Y66YDtxJCYuGumFO)
 - [Optimize database queries in the perimeter of your Laravel apps](https://reinink.ca/articles/optimize-database-queries-in-the-perimeter-of-your-laravel-apps?ref=laravelnews)
-- [Diving Laravel](https://divinglaravel.com/)
+- [Diving Laravel](https://divinglaravel.com)
 - [invisible recaptcha with vuejs & laravel](https://gist.github.com/ctf0/8037b629ffde02377adeaa43f46863de)
 
 <a name="#tutorial"></a>
@@ -27,20 +27,19 @@
 
 <a name="Packages"></a>
 ### 常用Packages
+- [Dompdf](https://github.com/dompdf/dompdf)
 - [laravel-uuid](https://github.com/webpatser/laravel-uuid)
 - [laravel-permission](https://github.com/spatie/laravel-permission)
 - [PHPWord](https://github.com/PHPOffice/PHPWord)
 - [PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet)
-- [Laravel Debugbar](https://github.com/barryvdh/laravel-debugbar)
 - [laravel-activitylog](https://github.com/spatie/laravel-activitylog)
 - [laravel-apidoc-generator](https://github.com/mpociot/laravel-apidoc-generator)
 - [laravel-trix](https://github.com/Te7a-Houdini/laravel-trix)
+- [Laravel Debugbar](https://github.com/barryvdh/laravel-debugbar)
+- [Laravel WebSockets](https://docs.beyondco.de/laravel-websockets)
+
 
 <a name="Demo"></a>
 ### Demo
 - [yyx990803/laravel-vue-cli-3](https://github.com/yyx990803/laravel-vue-cli-3)
 - [phanan/koel](https://github.com/phanan/koel)
-
-<a name="#git"></a>
-### Git
-- [git-cheat-sheet](http://bilalarslan.me/git-cheat-sheet/)
