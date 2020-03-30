@@ -50,11 +50,13 @@
   - [MySQL数据库开发的三十六条军规](https://www.slideshare.net/mysqlops/mysql-9838563)
 - [PHP(Laravel)](https://github.com/rara7777/notes-collection/blob/master/Laravel.md)
 - RESTful API
+  - [jsonapi](https://jsonapi.org)
 
 ## 其他
 - Git
   - [為你自己學 Git](https://gitbook.tw/)
   - [Learn Git Branching](https://learngitbranching.js.org/)
+  - [git-cheat-sheet](http://bilalarslan.me/git-cheat-sheet/)
 - [npm scripts](https://www.ruanyifeng.com/blog/2016/10/npm_scripts.html)
 - Kubernetes
 - Web socket
