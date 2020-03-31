@@ -9,7 +9,6 @@
 - [Data Structures](https://github.com/rara7777/notes-collection/blob/master/Data%20Structures.md)
 - [Design Pattern](https://github.com/kamranahmedse/design-patterns-for-humans)
 - Docker
-- End-to-End Testing
 - [ESLint](https://eslint.org)([Airbnb](https://github.com/airbnb/javascript) / [standard](https://standardjs.com))
 - Linux
   - [test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills)
