@@ -1,5 +1,5 @@
 <a name="#Linux"></a>
-# 在Ubuntu上設定並部署Laravel程式
+# 設定Ubuntu並部署Laravel程式(WIP)
 
 ## 開始之前
 
