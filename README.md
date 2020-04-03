@@ -57,5 +57,4 @@
   - [Learn Git Branching](https://learngitbranching.js.org/)
   - [git-cheat-sheet](http://bilalarslan.me/git-cheat-sheet/)
 - [npm scripts](https://www.ruanyifeng.com/blog/2016/10/npm_scripts.html)
-- Kubernetes
 - Web socket
