@@ -3,19 +3,20 @@
 
 ## 通用:
 - Algorithm
-- [CDN](https://github.com/rara7777/notes-collection/blob/master/CDN.md)
 - CI/CD
   - [Top 8 Continuous Integration Tools](https://code-maze.com/top-8-continuous-integration-tools)
 - [Data Structures](https://github.com/rara7777/notes-collection/blob/master/Data%20Structures.md)
-- [Design Pattern](https://github.com/kamranahmedse/design-patterns-for-humans)
 - Docker
 - [ESLint](https://eslint.org)([Airbnb](https://github.com/airbnb/javascript) / [standard](https://standardjs.com))
 - Linux
   - [test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills)
-- SOLID
 - 網路基本原理
 - web application security(TLS, SSL, SQL injection, XSS)
   - [pick a vulnerability to learn about](https://www.hacksplaining.com/lessons)
+- Git
+  - [為你自己學 Git](https://gitbook.tw/)
+  - [Learn Git Branching](https://learngitbranching.js.org/)
+  - [git-cheat-sheet](http://bilalarslan.me/git-cheat-sheet/)
 
 ## 前端:
 - [Bootstrap](https://getbootstrap.com)
@@ -25,7 +26,6 @@
 - i18n
   - [Laravel](https://laravel.com/docs/master/localization)
   - [vuejs](https://kazupon.github.io/vue-i18n)
-- [MVVM](https://github.com/rara7777/notes-collection/blob/master/MVVM.md)
 - RWD
 - SEO
   - [Google搜尋引擎最佳化初學者指南](http://static.googleusercontent.com/media/www.google.com/en/us/intl/zh-tw/webmasters/docs/search-engine-optimization-starter-guide-zh-tw.pdf)
@@ -51,9 +51,9 @@
   - [jsonapi](https://jsonapi.org)
 
 ## 其他
-- Git
-  - [為你自己學 Git](https://gitbook.tw/)
-  - [Learn Git Branching](https://learngitbranching.js.org/)
-  - [git-cheat-sheet](http://bilalarslan.me/git-cheat-sheet/)
 - [npm scripts](https://www.ruanyifeng.com/blog/2016/10/npm_scripts.html)
 - Web socket
+- [Design Pattern](https://github.com/kamranahmedse/design-patterns-for-humans)
+- SOLID
+- [CDN](https://github.com/rara7777/notes-collection/blob/master/CDN.md)
+- [MVVM](https://github.com/rara7777/notes-collection/blob/master/MVVM.md)
