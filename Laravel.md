@@ -19,6 +19,7 @@
 - [Optimize database queries in the perimeter of your Laravel apps](https://reinink.ca/articles/optimize-database-queries-in-the-perimeter-of-your-laravel-apps?ref=laravelnews)
 - [Diving Laravel](https://divinglaravel.com)
 - [invisible recaptcha with vuejs & laravel](https://gist.github.com/ctf0/8037b629ffde02377adeaa43f46863de)
+- [Realtime Notifications with Laravel Websockets](https://www.youtube.com/watch?v=7MvN0w5BW48)
 
 <a name="#tutorial"></a>
 ### Tutorial
@@ -38,8 +39,9 @@
 - [Laravel Debugbar](https://github.com/barryvdh/laravel-debugbar)
 - [Laravel WebSockets](https://docs.beyondco.de/laravel-websockets)
 
-
 <a name="Demo"></a>
 ### Demo
-- [yyx990803/laravel-vue-cli-3](https://github.com/yyx990803/laravel-vue-cli-3)
+- [coderstape/library](https://github.com/coderstape/library) 可參考測試
 - [phanan/koel](https://github.com/phanan/koel)
+- [yyx990803/laravel-vue-cli-3](https://github.com/yyx990803/laravel-vue-cli-3) 可參考vue cli 和 laravel 的整合
+- [caouecs/Laravel-lang](https://github.com/caouecs/Laravel-lang/tree/master/src/zh-TW) 繁體中文翻譯
