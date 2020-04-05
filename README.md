@@ -52,7 +52,6 @@
 
 ## 其他
 - [npm scripts](https://www.ruanyifeng.com/blog/2016/10/npm_scripts.html)
-- Web socket
 - [Design Pattern](https://github.com/kamranahmedse/design-patterns-for-humans)
 - SOLID
 - [CDN](https://github.com/rara7777/notes-collection/blob/master/CDN.md)
