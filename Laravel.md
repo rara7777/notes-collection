@@ -38,6 +38,7 @@
 - [laravel-trix](https://github.com/Te7a-Houdini/laravel-trix)
 - [Laravel Debugbar](https://github.com/barryvdh/laravel-debugbar)
 - [Laravel WebSockets](https://docs.beyondco.de/laravel-websockets)
+- [Laravel Sanctum](https://laravel.com/docs/7.x/sanctum)
 
 <a name="Demo"></a>
 ### Demo
