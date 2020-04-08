@@ -20,6 +20,7 @@
 - [Normalize.css](https://necolas.github.io/normalize.css)
 - [Nprogress](https://ricostacruz.com/nprogress)
 - [Vue.js](https://vuejs.org)
+- [Vue.Draggable](https://github.com/SortableJS/Vue.Draggable)
 - [Vuetifyjs](https://vuetifyjs.com)
 - [vue-echarts](https://github.com/ecomfe/vue-echarts)
 - [vue-recaptcha](https://www.npmjs.com/package/vue-recaptcha)
@@ -32,4 +33,5 @@
 ### vue 參考範例
 - [PanJiaChen/vue-admin-template](https://github.com/PanJiaChen/vue-admin-template)
 - [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)
+- [starkovsky/laravel-vue-cli](https://github.com/starkovsky/laravel-vue-cli)
 - [yyx990803/laravel-vue-cli-3](https://github.com/yyx990803/laravel-vue-cli-3)
