@@ -29,7 +29,7 @@
 <a name="Packages"></a>
 ### 常用Packages
 - [Dompdf](https://github.com/dompdf/dompdf)
-- [laravel-uuid](https://github.com/webpatser/laravel-uuid)
+- [laravel-eloquent-uuid](https://github.com/goldspecdigital/laravel-eloquent-uuid)
 - [laravel-permission](https://github.com/spatie/laravel-permission)
 - [PHPWord](https://github.com/PHPOffice/PHPWord)
 - [PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet)
