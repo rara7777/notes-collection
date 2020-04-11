@@ -11,6 +11,10 @@
 - [TypeOfNaN JavaScript Quizzes](https://quiz.typeofnan.dev/) - 掃盲
 - [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 
+<a name="cli"></a>
+### 腳手架
+- [Vue CLI](https://cli.vuejs.org)
+
 <a name="library"></a>
 ### 常用程式庫
 - [Axios](https://github.com/axios/axios)
