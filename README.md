@@ -39,8 +39,6 @@
   - [Vuex tutorial (Vue.js state management)](https://www.youtube.com/playlist?list=PL1TrjkMQ8UbVSDkDaLkjpeNGkblNU8rpW)
 - Webpack
   - [4W字长文带你深度解锁Webpack系列](https://juejin.im/post/5e5c65fc6fb9a07cd00d8838)
-- 網頁切版作業
-  - [網頁切版報價細節](https://www.youtube.com/watch?v=drLqqWhkUqg)
 
 ## 後端:
 - 關聯式資料庫(MySQL, SQL Server)
