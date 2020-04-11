@@ -33,7 +33,6 @@
 - [Vue](https://vuejs.org)
 - [Vue Test Utils](https://vue-test-utils.vuejs.org/zh)(JEST)
 - [Vue Router](https://router.vuejs.org/zh)
-- [Vue CLI](https://cli.vuejs.org)
 - [Vuex](https://vuex.vuejs.org/zh)
   - [Learn Vuex](https://scrimba.com/g/gvuex)
   - [Vuex tutorial (Vue.js state management)](https://www.youtube.com/playlist?list=PL1TrjkMQ8UbVSDkDaLkjpeNGkblNU8rpW)
