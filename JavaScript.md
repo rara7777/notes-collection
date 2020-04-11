@@ -28,6 +28,7 @@
 - [Vuetifyjs](https://vuetifyjs.com)
 - [vue-echarts](https://github.com/ecomfe/vue-echarts)
 - [vue-recaptcha](https://www.npmjs.com/package/vue-recaptcha)
+- [Vue Router](https://router.vuejs.org/zh)
 
 <a name="icon"></a>
 ### 常用Icon
