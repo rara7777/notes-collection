@@ -7,7 +7,7 @@
   - [Top 8 Continuous Integration Tools](https://code-maze.com/top-8-continuous-integration-tools)
 - [Data Structures](https://github.com/rara7777/notes-collection/blob/master/Data%20Structures.md)
 - Docker
-- [ESLint](https://eslint.org)([Airbnb](https://github.com/airbnb/javascript) / [standard](https://standardjs.com))
+- [ESLint](https://eslint.org)([standard](https://standardjs.com))
 - Linux
   - [test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills)
 - 網路基本原理
