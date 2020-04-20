@@ -26,7 +26,6 @@
 - RWD
 - SEO
   - [Google搜尋引擎最佳化初學者指南](http://static.googleusercontent.com/media/www.google.com/en/us/intl/zh-tw/webmasters/docs/search-engine-optimization-starter-guide-zh-tw.pdf)
-- TypeScript
 - [Vue](https://vuejs.org)
 - [Vuex](https://vuex.vuejs.org/zh)
   - [Learn Vuex](https://scrimba.com/g/gvuex)
