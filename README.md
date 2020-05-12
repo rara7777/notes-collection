@@ -10,7 +10,6 @@
 - [ESLint](https://eslint.org)([standard](https://standardjs.com))
 - Linux
   - [test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills)
-- 網路基本原理
 - web application security(TLS, SSL, SQL injection, XSS)
   - [pick a vulnerability to learn about](https://www.hacksplaining.com/lessons)
 - Git
