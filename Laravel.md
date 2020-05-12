@@ -14,17 +14,15 @@
 ### Topics
 - [Eloquent Relationships Cheat Sheet](https://hackernoon.com/eloquent-relationships-cheat-sheet-5155498c209)
 - [20 个 Laravel Eloquent 必备的实用技巧](https://learnku.com/laravel/t/9991/20-laravel-eloquent-necessary-practical-skills)
-- [RESTful 服务最佳实践](https://www.cnblogs.com/jaxu/p/7908111.html)
-- [Laravel 6 Advanced](https://www.youtube.com/watch?v=_z9nzEUgro4&list=PLpzy7FIRqpGD5pN3-Y66YDtxJCYuGumFO)
 - [Optimize database queries in the perimeter of your Laravel apps](https://reinink.ca/articles/optimize-database-queries-in-the-perimeter-of-your-laravel-apps?ref=laravelnews)
 - [Diving Laravel](https://divinglaravel.com)
-- [invisible recaptcha with vuejs & laravel](https://gist.github.com/ctf0/8037b629ffde02377adeaa43f46863de)
-- [Realtime Notifications with Laravel Websockets](https://www.youtube.com/watch?v=7MvN0w5BW48)
 
 <a name="#tutorial"></a>
 ### Tutorial
 - [Laravel API Tutorial: How to Build and Test a RESTful API](https://www.toptal.com/laravel/restful-laravel-api-tutorial)
 - [Laravel PHP Framework - Full Course for Beginners (2019)](https://www.youtube.com/watch?v=ImtZ5yENzgE)
+- [Realtime Notifications with Laravel Websockets](https://www.youtube.com/watch?v=7MvN0w5BW48)
+- [invisible recaptcha with vuejs & laravel](https://gist.github.com/ctf0/8037b629ffde02377adeaa43f46863de)
 
 <a name="Packages"></a>
 ### 常用Packages
@@ -46,3 +44,4 @@
 - [phanan/koel](https://github.com/phanan/koel)
 - [yyx990803/laravel-vue-cli-3](https://github.com/yyx990803/laravel-vue-cli-3) 可參考vue cli 和 laravel 的整合
 - [caouecs/Laravel-lang](https://github.com/caouecs/Laravel-lang/tree/master/src/zh-TW) 繁體中文翻譯
+- [monicahq/monica](https://github.com/monicahq/monica)
