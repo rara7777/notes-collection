@@ -4,7 +4,7 @@
 ## 通用:
 - Algorithm
 - CI/CD
-  - [Top 8 Continuous Integration Tools](https://code-maze.com/top-8-continuous-integration-tools)
+  - [circleci](https://circleci.com/)
 - [Data Structures](https://github.com/rara7777/notes-collection/blob/master/Data%20Structures.md)
 - Docker
 - [ESLint](https://eslint.org)([standard](https://standardjs.com))
