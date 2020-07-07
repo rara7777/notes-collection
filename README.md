@@ -27,8 +27,6 @@
 - [Vuex](https://vuex.vuejs.org/zh)
   - [Learn Vuex](https://scrimba.com/g/gvuex)
   - [Vuex tutorial (Vue.js state management)](https://www.youtube.com/playlist?list=PL1TrjkMQ8UbVSDkDaLkjpeNGkblNU8rpW)
-- Webpack
-  - [4W字长文带你深度解锁Webpack系列](https://juejin.im/post/5e5c65fc6fb9a07cd00d8838)
 
 ## 後端:
 - 關聯式資料庫(MySQL, SQL Server)
@@ -37,7 +35,6 @@
 - RESTful API
 
 ## 其他
-- [npm scripts](https://www.ruanyifeng.com/blog/2016/10/npm_scripts.html)
 - [Design Pattern](https://github.com/kamranahmedse/design-patterns-for-humans)
 - SOLID
 - [CDN](https://github.com/rara7777/notes-collection/blob/master/CDN.md)
