@@ -9,10 +9,6 @@
 - [List of (Advanced) JavaScript Questions](https://github.com/lydiahallie/javascript-questions) - 掃盲
 - [TypeOfNaN JavaScript Quizzes](https://quiz.typeofnan.dev/) - 掃盲
 
-<a name="cli"></a>
-### 腳手架
-- [Vue CLI](https://cli.vuejs.org)
-
 <a name="library"></a>
 ### 常用程式庫
 - [Axios](https://github.com/axios/axios)
