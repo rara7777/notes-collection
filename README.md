@@ -19,8 +19,6 @@
 
 ## 前端:
 - [Bootstrap](https://getbootstrap.com)
-- HTML5
-- CSS(SCSS)
 - [JavaScript](https://github.com/rara7777/notes-collection/blob/master/JavaScript.md)
 - RWD
 - [Vue](https://vuejs.org)
