@@ -42,5 +42,5 @@
 - [coderstape/library](https://github.com/coderstape/library) 可參考測試
 - [phanan/koel](https://github.com/phanan/koel)
 - [yyx990803/laravel-vue-cli-3](https://github.com/yyx990803/laravel-vue-cli-3) 可參考vue cli 和 laravel 的整合
-- [caouecs/Laravel-lang](https://github.com/caouecs/Laravel-lang/tree/master/src/zh-TW) 繁體中文翻譯
+- [caouecs/Laravel-lang](https://github.com/caouecs/Laravel-lang/tree/master/src/zh_TW) 繁體中文翻譯
 - [monicahq/monica](https://github.com/monicahq/monica)
