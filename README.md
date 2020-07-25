@@ -11,7 +11,6 @@
 - Linux
   - [test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills)
 - Git
-  - [為你自己學 Git](https://gitbook.tw/)
   - [Learn Git Branching](https://learngitbranching.js.org/)
   - [git-cheat-sheet](http://bilalarslan.me/git-cheat-sheet/)
 
