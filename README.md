@@ -35,5 +35,4 @@
 ## 其他
 - [Design Pattern](https://github.com/kamranahmedse/design-patterns-for-humans)
 - SOLID
-- [CDN](https://github.com/rara7777/notes-collection/blob/master/CDN.md)
 - [MVVM](https://github.com/rara7777/notes-collection/blob/master/MVVM.md)
