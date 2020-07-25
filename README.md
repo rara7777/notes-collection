@@ -3,8 +3,6 @@
 
 ## 通用:
 - Algorithm
-- CI/CD
-  - [circleci](https://circleci.com/)
 - [Data Structures](https://github.com/rara7777/notes-collection/blob/master/Data%20Structures.md)
 - Docker
 - [ESLint](https://eslint.org)([standard](https://standardjs.com))
