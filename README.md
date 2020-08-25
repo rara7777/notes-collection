@@ -18,8 +18,6 @@
 - RWD
 - [Vue](https://vuejs.org)
 - [Vuex](https://vuex.vuejs.org/zh)
-  - [Learn Vuex](https://scrimba.com/g/gvuex)
-  - [Vuex tutorial (Vue.js state management)](https://www.youtube.com/playlist?list=PL1TrjkMQ8UbVSDkDaLkjpeNGkblNU8rpW)
 
 ## 後端:
 - 關聯式資料庫(MySQL, SQL Server)
