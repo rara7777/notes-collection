@@ -22,6 +22,7 @@
 - [Laravel PHP Framework - Full Course for Beginners (2019)](https://www.youtube.com/watch?v=ImtZ5yENzgE)
 - [Realtime Notifications with Laravel Websockets](https://www.youtube.com/watch?v=7MvN0w5BW48)
 - [invisible recaptcha with vuejs & laravel](https://gist.github.com/ctf0/8037b629ffde02377adeaa43f46863de)
+- [Laravel WebSockets Installation & Configuration | Real-time Chat Application](https://www.youtube.com/watch?v=H_4UubWE9NQ)
 
 <a name="Packages"></a>
 ### 常用Packages
