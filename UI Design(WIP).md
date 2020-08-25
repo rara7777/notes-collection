@@ -26,3 +26,6 @@ Implementation 執行應用: 由工程師藉由設計稿產出程式碼。
 - 群組化概念
 - 共用間距
 - 圖片選擇
+
+## 文章
+- [UI/UX｜下次主管問你為什麼 UI 要用圓角的時候](https://medium.com/as-a-product-designer/ui-ux-%E4%B8%8B%E6%AC%A1%E4%B8%BB%E7%AE%A1%E5%95%8F%E4%BD%A0%E7%82%BA%E4%BB%80%E9%BA%BC-ui-%E8%A6%81%E7%94%A8%E5%9C%93%E8%A7%92%E7%9A%84%E6%99%82%E5%80%99-a5bf52cfdc1c)
