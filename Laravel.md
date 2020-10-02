@@ -2,8 +2,8 @@
 # Laravel
 
 <a name="#document"></a>
-### 文檔
-- [Laravel官方網站](https://laravel.com)
+### Document
+- [Laravel](https://laravel.com)
 
 <a name="#practice"></a>
 ### 開發規範、代碼風格
