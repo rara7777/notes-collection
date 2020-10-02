@@ -23,23 +23,25 @@
 - [Realtime Notifications with Laravel Websockets](https://www.youtube.com/watch?v=7MvN0w5BW48)
 - [invisible recaptcha with vuejs & laravel](https://gist.github.com/ctf0/8037b629ffde02377adeaa43f46863de)
 - [Laravel WebSockets Installation & Configuration | Real-time Chat Application](https://www.youtube.com/watch?v=H_4UubWE9NQ)
+- [Laravel Websockets and Laravel Echo with Vue](https://youtu.be/rNOGLLPXzwc)
 
 <a name="Packages"></a>
 ### 常用Packages
 - [Dompdf](https://github.com/dompdf/dompdf)
-- [laravel-eloquent-uuid](https://github.com/goldspecdigital/laravel-eloquent-uuid)
-- [laravel-permission](https://github.com/spatie/laravel-permission)
-- [PHPWord](https://github.com/PHPOffice/PHPWord)
-- [PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet)
 - [laravel-activitylog](https://github.com/spatie/laravel-activitylog)
 - [laravel-apidoc-generator](https://github.com/mpociot/laravel-apidoc-generator)
-- [laravel-trix](https://github.com/Te7a-Houdini/laravel-trix)
 - [Laravel Debugbar](https://github.com/barryvdh/laravel-debugbar)
+- [laravel-eloquent-uuid](https://github.com/goldspecdigital/laravel-eloquent-uuid)
+- [laravel-permission](https://github.com/spatie/laravel-permission)
+- [Laravel Sanctum](https://laravel.com/docs/8.x/sanctum)
+- [laravel-snappy](https://github.com/barryvdh/laravel-snappy)
+- [laravel-trix](https://github.com/Te7a-Houdini/laravel-trix)
 - [Laravel WebSockets](https://docs.beyondco.de/laravel-websockets)
-- [Laravel Sanctum](https://laravel.com/docs/7.x/sanctum)
+- [PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet)
+- [PHPWord](https://github.com/PHPOffice/PHPWord)
 
 <a name="Demo"></a>
-### Demo
+### Example
 - [coderstape/library](https://github.com/coderstape/library) 可參考測試
 - [phanan/koel](https://github.com/phanan/koel)
 - [yyx990803/laravel-vue-cli-3](https://github.com/yyx990803/laravel-vue-cli-3) 可參考vue cli 和 laravel 的整合
