@@ -2,7 +2,7 @@
 # Laravel
 
 <a name="#document"></a>
-### Document
+### Official Document
 - [Laravel](https://laravel.com)
 
 <a name="#practice"></a>
