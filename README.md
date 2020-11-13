@@ -13,6 +13,7 @@
   - [git-cheat-sheet](http://bilalarslan.me/git-cheat-sheet/)
 - Network
   - [How DNS works](https://howdns.works/)
+  - [How HTTPS works](https://howhttps.works/)
 - OOP
   - [Intro to Object Oriented Programming - Crash Course](https://www.youtube.com/watch?v=SiBw7os-_zI)
 
