@@ -33,7 +33,6 @@
 ## 其他
 - [Design Pattern](https://github.com/kamranahmedse/design-patterns-for-humans)
 - SOLID
-- [MVVM](https://github.com/rara7777/notes-collection/blob/master/MVVM.md)
 - [How To Install and Configure Laravel with Nginx on Ubuntu 20.04 (LEMP)](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-laravel-with-nginx-on-ubuntu-20-04)
 - [How To Set Up vsftpd for a User's Directory on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-vsftpd-for-a-user-s-directory-on-ubuntu-18-04)
 - [How To Secure Apache with Let's Encrypt on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-secure-apache-with-let-s-encrypt-on-ubuntu-20-04)
