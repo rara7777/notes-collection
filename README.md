@@ -24,11 +24,9 @@
 - [Vue](https://vuejs.org)
 
 ## 後端:
-- 關聯式資料庫(MySQL, SQL Server)
+- 關聯式資料庫
   - [MySQL数据库开发的三十六条军规](https://www.slideshare.net/mysqlops/mysql-9838563)
 - [PHP(Laravel)](https://github.com/rara7777/notes-collection/blob/master/Laravel.md)
-- RESTful API
-  - [理解RESTful架構](http://www.ruanyifeng.com/blog/2011/09/restful.html)
 
 ## 其他
 - [Design Pattern](https://github.com/kamranahmedse/design-patterns-for-humans)
