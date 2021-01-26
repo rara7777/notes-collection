@@ -24,10 +24,11 @@
 ```
 {
     "[blade]": {
-        "editor.tabSize": 2
+        "editor.tabSize": 2,
+        "editor.autoClosingBrackets": "always"
     },
     "[javascript]": {
-        "editor.tabSize": 2
+        "editor.tabSize": 2,
     },
     "[php]": {
         "editor.tabSize": 4,
@@ -37,14 +38,14 @@
         "editor.tabSize": 4
     },
     "[vue]": {
-        "editor.tabSize": 2
+        "editor.tabSize": 2,
     },
     "editor.formatOnSave": false,
     "editor.fontSize": 16,
     "editor.renderWhitespace": "boundary",
     "editor.tabSize": 2,
     "editor.wordWrap": "on",
-    "files.eol": "\n",
+    "files.associations": { "*.module": "php" },
     "files.insertFinalNewline": true,
     "files.trimTrailingWhitespace": true,
     "search.exclude": {
@@ -60,14 +61,15 @@
     },
     "telemetry.enableTelemetry": false,
     "css.validate": false,
-    "scss.validate": false,
     "less.validate": false,
+    "scss.validate": false,
     "window.zoomLevel": -1,
     "workbench.enableExperiments": false,
     "telemetry.enableCrashReporter": false,
-    "php.validate.enable": false,
-    "php.suggest.basic": false,
     "extensions.autoUpdate": false,
+    "workbench.startupEditor": "newUntitledFile",
+    "emmet.triggerExpansionOnTab": true,
+    "blade.format.enable": true,
 }
 
 ```
