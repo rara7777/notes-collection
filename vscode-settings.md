@@ -3,11 +3,15 @@
 
 ### Extensions
 
+`Bracket Pair Colorizer` [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+
 `ESLint` [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
-`Laravel 5 Snippets` [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel5-snippets)
-
 `Laravel Blade Snippets` [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel-blade)
+
+`Laravel Snippets` [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel5-snippets)
+
+`Live Server` [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
 `PHP Intelephense` [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client)
 
@@ -59,7 +63,6 @@
     "scss.validate": false,
     "less.validate": false,
     "window.zoomLevel": -1,
-    "terminal.integrated.shell.windows": "D:\\Program Files\\Git\\bin\\bash.exe",
     "workbench.enableExperiments": false,
     "telemetry.enableCrashReporter": false,
     "php.validate.enable": false,
