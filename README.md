@@ -8,6 +8,7 @@
 - [ESLint](https://eslint.org)([standard](https://standardjs.com))
 - Linux
   - [test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills)
+  - [How To Secure A Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
 - Git
   - [Learn Git Branching](https://learngitbranching.js.org/)
   - [git-cheat-sheet](http://bilalarslan.me/git-cheat-sheet/)
