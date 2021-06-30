@@ -24,11 +24,14 @@
 - [Laravel WebSockets Installation & Configuration | Real-time Chat Application](https://www.youtube.com/watch?v=H_4UubWE9NQ)
 - [Laravel Websockets and Laravel Echo with Vue](https://youtu.be/rNOGLLPXzwc)
 
+<a name="Interview"></a>
+### Interview
+- [Top 91 Laravel Interview Questions & Answers](https://www.guru99.com/laravel-interview-questions.html)
+- [23+ Laravel Interview Questions (Answered) You Should Know](https://dev.to/fullstackcafe/23-laravel-interview-questions-answered-you-should-know-ibm)
+
 <a name="Packages"></a>
 ### 常用Packages
-- [Dompdf](https://github.com/dompdf/dompdf)
 - [laravel-activitylog](https://github.com/spatie/laravel-activitylog)
-- [laravel-apidoc-generator](https://github.com/mpociot/laravel-apidoc-generator)
 - [Laravel Debugbar](https://github.com/barryvdh/laravel-debugbar)
 - [laravel-eloquent-uuid](https://github.com/goldspecdigital/laravel-eloquent-uuid)
 - [laravel-permission](https://github.com/spatie/laravel-permission)
