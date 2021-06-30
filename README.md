@@ -16,10 +16,8 @@
   - [Intro to Object Oriented Programming - Crash Course](https://www.youtube.com/watch?v=SiBw7os-_zI)
 
 ## 前端:
-- [Bootstrap](https://getbootstrap.com)
 - [JavaScript](https://github.com/rara7777/notes-collection/blob/master/JavaScript.md)
 - RWD
-- [Vue](https://vuejs.org)
 
 ## 後端:
 - 關聯式資料庫
