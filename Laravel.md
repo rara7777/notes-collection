@@ -9,6 +9,7 @@
 ### 開發規範、代碼風格
 - [laravel-best-practices](https://github.com/alexeymezenin/laravel-best-practices)
 - [clean-code-php](https://github.com/jupeter/clean-code-php)
+- [Guidelines by Spatie](https://spatie.be/guidelines)
 
 <a name="#practice"></a>
 ### Topics
