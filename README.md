@@ -1,5 +1,5 @@
 # notes-collection
-自己學習的資源、筆記、紀錄
+> 自己收集與整理的學籍資源。
 
 ## 通用:
 - Algorithm
@@ -31,4 +31,4 @@
 - [How To Set Up vsftpd for a User's Directory on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-vsftpd-for-a-user-s-directory-on-ubuntu-18-04)
 - [How To Secure Apache with Let's Encrypt on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-secure-apache-with-let-s-encrypt-on-ubuntu-20-04)
 - [How To Set Up Laravel, Nginx, and MySQL with Docker Compose](https://www.digitalocean.com/community/tutorials/how-to-set-up-laravel-nginx-and-mysql-with-docker-compose)
-- [How To Secure Nginx with Let's Encrypt on Ubuntu 20.04 NginxUbuntu](https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-20-04)
+- [How To Secure Nginx with Let's Encrypt on Ubuntu 20.04 Nginx Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-20-04)
