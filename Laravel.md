@@ -4,6 +4,7 @@
 <a name="#document"></a>
 ### Official Document
 - [Laravel](https://laravel.com)
+- [Laravel API Reference](https://laravel.com/api/master/)
 
 <a name="#practice"></a>
 ### 開發規範、代碼風格
