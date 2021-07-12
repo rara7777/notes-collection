@@ -51,3 +51,4 @@
 - [koel/koel](https://github.com/koel/koel)
 - [monicahq/monica](https://github.com/monicahq/monica)
 - [yyx990803/laravel-vue-cli-3](https://github.com/yyx990803/laravel-vue-cli-3) 可參考vue cli 和 laravel 的整合
+- [Laravel Examples](https://laravelexamples.com/)
