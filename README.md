@@ -6,6 +6,7 @@
 - [Data Structures](https://github.com/rara7777/notes-collection/blob/master/Data%20Structures.md)
 - Docker
 - [ESLint](https://eslint.org)([standard](https://standardjs.com))
+- [The System Design Primer](https://github.com/donnemartin/system-design-primer)
 - Linux
   - [test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills)
   - [How To Secure A Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
