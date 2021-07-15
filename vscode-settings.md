@@ -5,11 +5,21 @@
 
 `Bracket Pair Colorizer` [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 
+`Code Runner` [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
+
+`Docker` [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
+
 `ESLint` [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
 `Laravel Blade Snippets` [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel-blade)
 
+`Laravel Blade Spacer` [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=austenc.laravel-blade-spacer)
+
+`Laravel Extra Intellisense` [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=amiralizadeh9480.laravel-extra-intellisense)
+
 `Laravel Snippets` [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel5-snippets)
+
+`Material Icon Theme` [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
 `Live Server` [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
@@ -40,7 +50,6 @@
     "[vue]": {
         "editor.tabSize": 2,
     },
-    "editor.formatOnSave": false,
     "editor.fontSize": 16,
     "editor.renderWhitespace": "boundary",
     "editor.tabSize": 2,
@@ -70,6 +79,9 @@
     "workbench.startupEditor": "newUntitledFile",
     "emmet.triggerExpansionOnTab": true,
     "blade.format.enable": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "security.workspace.trust.untrustedFiles": "open",
+    "intelephense.environment.phpVersion": "7.4"
 }
 
 ```
