@@ -26,6 +26,7 @@
 - [PHP(Laravel)](https://github.com/rara7777/notes-collection/blob/master/Laravel.md)
 
 ## 其他
+- [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io)
 - [Design Pattern](https://github.com/kamranahmedse/design-patterns-for-humans)
 - SOLID
 - [How To Install Linux, Nginx, MySQL, PHP (LEMP stack) on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-install-linux-nginx-mysql-php-lemp-stack-on-ubuntu-20-04)
