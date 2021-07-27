@@ -25,6 +25,9 @@
   - [MySQL数据库开发的三十六条军规](https://www.slideshare.net/mysqlops/mysql-9838563)
 - [PHP(Laravel)](https://github.com/rara7777/notes-collection/blob/master/Laravel.md)
 
+## 工具
+- [licecap(螢幕錄製轉成GIF)](https://www.cockos.com/licecap/)
+
 ## 其他
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io)
 - [Design Pattern](https://github.com/kamranahmedse/design-patterns-for-humans)
