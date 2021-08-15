@@ -5,7 +5,6 @@
 - Algorithm
 - Data Structures
 - Docker
-- [ESLint](https://eslint.org)([standard](https://standardjs.com))
 - [The System Design Primer](https://github.com/donnemartin/system-design-primer)
 - Linux
   - [test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills)
