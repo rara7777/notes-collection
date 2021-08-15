@@ -3,7 +3,7 @@
 
 ## 通用:
 - Algorithm
-- [Data Structures](https://github.com/rara7777/notes-collection/blob/master/Data%20Structures.md)
+- Data Structures
 - Docker
 - [ESLint](https://eslint.org)([standard](https://standardjs.com))
 - [The System Design Primer](https://github.com/donnemartin/system-design-primer)
