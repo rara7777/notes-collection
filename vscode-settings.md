@@ -15,8 +15,6 @@
 
 `Laravel Blade Spacer` [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=austenc.laravel-blade-spacer)
 
-`Laravel Extra Intellisense` [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=amiralizadeh9480.laravel-extra-intellisense)
-
 `Laravel Snippets` [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel5-snippets)
 
 `Material Icon Theme` [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
@@ -42,7 +40,7 @@
     },
     "[php]": {
         "editor.tabSize": 4,
-        "editor.formatOnSave": true,
+        "editor.formatOnSave": true
     },
     "[python]": {
         "editor.tabSize": 4
