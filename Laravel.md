@@ -26,6 +26,7 @@
 - [Laravel WebSockets Installation & Configuration | Real-time Chat Application](https://www.youtube.com/watch?v=H_4UubWE9NQ)
 - [Laravel Websockets and Laravel Echo with Vue](https://youtu.be/rNOGLLPXzwc)
 - [Laravel Package Development](https://www.youtube.com/watch?v=ivrc1ZKFgHI&list=PLpzy7FIRqpGBQ_aqz_hXDBch1aAA-lmgu&index=1)
+- [Laravel Tips](https://github.com/LaravelDaily/laravel-tips)
 
 <a name="Interview"></a>
 ### Interview
